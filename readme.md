@@ -1,0 +1,27 @@
+include manifest version list
+
+Build 23447986 3 June 2026
+
+BuildID17035252 23 January 2025
+
+BuildID17179701 3 February 2025
+
+BuildID17345696 14 February 2025
+
+lack depot：
+
+-- APPID:4270160;FINAL FANTASY VII REBIRTH Original Soundtrack Plus
+
+--addappid(4270161,1,"[NEED OWNER SHARE]")
+
+-- APPID:4270120;FINAL FANTASY VII REBIRTH Orchestral Arrangement Album
+
+--addappid(4270121,1,"[NEED OWNER SHARE]")
+
+-- APPID:4270130;FINAL FANTASY VII REBIRTH Orchestra World Tour LIVE 2024.09.08
+
+--addappid(4270131,1,"[NEED OWNER SHARE]")
+
+-- APPID:4270150;FINAL FANTASY VII REBIRTH ACOUSTIC ARRANGEMENTS
+
+--addappid(4270151,1,"[NEED OWNER SHARE]")
